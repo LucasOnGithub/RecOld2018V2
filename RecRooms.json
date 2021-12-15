@@ -181,7 +181,7 @@
       "Name": "Paddleball",
       "Description": "A simple rally game between two players in a plexiglass tube with a zero-g ball.",
       "CreatorPlayerId": 883392671,
-      "ImageName": "ActivityPaddleball.png",
+      "ImageName": "Paddleball.png",
       "State": 0,
       "Accessibility": 1,
       "SupportsLevelVoting": false,
