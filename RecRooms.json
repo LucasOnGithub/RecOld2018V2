@@ -1,11 +1,11 @@
 {
-    "RecOldVenue": {
+    "RecOldEventsRoom": {
         "Room": {
             "RoomId": 3442685,
-            "Name": "RecOldVenue",
-            "Description": "This room is not a blank canvas. Make it into whatever you like!",
-            "CreatorPlayerId": 1536641347, 
-            "ImageName": "ActivityCharades.png",
+            "Name": "RecOldEventsRoom",
+            "Description": "This room is used for meetups!",
+            "CreatorPlayerId": 883392671, 
+            "ImageName": "RecOldMeetupRoom.png",
             "State": 0,
             "Accessibility": 1,
             "SupportsLevelVoting": false,
@@ -18,17 +18,17 @@
         "Scenes": [
             {
                 "RoomSceneId": 1,
-                "RoomId": 3442685,
+                "RoomId": 6390143,
                 "RoomSceneLocationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
                 "Name": "RecOldVenue",
                 "IsSandbox": true,
-                "DataBlobName": "190IP3R1GH71FZBAGII0TA.room",
-                "MaxPlayers": 20,
+                "DataBlobName": "5GDNL91ZY43PXN2YJENTBL.room",
+                "MaxPlayers": 40,
                 "CanMatchmakeInto": true,
-                "DataModifiedAt": "2021-06-13T08:22:52.0274161-07:00"
+                "DataModifiedAt": "2021-12-17T13:53:54.1444333-06:00"
             }
         ],
-        "CoOwners": [883392671],
+        "CoOwners": [1536641347],
         "Hosts": [],
         "CheerCount": 1,
         "FavoriteCount": 1,
