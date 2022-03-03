@@ -59,15 +59,20 @@
         ]
         "CoOwners": [1536641347],
         "Hosts": [],
-        "CheerCount": 1,
+        "CheerCount": 69,
         "FavoriteCount": 1,
         "VisitCount": 1,
         "Tags": [
             {
-                "Tag": "test, rro",
+                "Tag": "rro",
                 "Type": 2
+            },
+            {
+                "Tag": "test",
+                "Type": 0
             }
-        ],
+        ]
+    },
     "3DCharades": {
         "Room": {
             "RoomId": 3,
