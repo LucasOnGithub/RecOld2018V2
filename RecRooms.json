@@ -28,7 +28,7 @@
                 "DataModifiedAt": "2021-12-17T13:53:54.1444333-06:00"
             }
         ],
-    "RecOldEventsRoom": {
+    "TestingRoom": {
         "Room": {
             "RoomId": 3442685,
             "Name": "testing room",
@@ -49,7 +49,7 @@
                 "RoomSceneId": 1,
                 "RoomId": 6390143,
                 "RoomSceneLocationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
-                "Name": "RecOldVenue",
+                "Name": "TestRoomCenter",
                 "IsSandbox": true,
                 "DataBlobName": "5GDNL91ZY43PXN2YJENTBL.room",
                 "MaxPlayers": 40,
